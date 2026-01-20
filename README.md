@@ -7,7 +7,7 @@ The project integrates an ML model with an interactive **Gradio web interface** 
 
 ## 🌐 Web Application
 This project features a **Gradio-powered website** where users can input current match details and receive the predicted win probability for each team in real time.
-(https://a9698610a4c6b6d69d.gradio.live/)
+https://a9698610a4c6b6d69d.gradio.live/
 ---
 
 ## 📊 Dataset
